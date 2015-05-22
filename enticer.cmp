@@ -1,0 +1,234 @@
+Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Wed 20 May 2015 08:05:09 PM CEST
+
+BeginCmp
+TimeStamp = /555CD097;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CCE11;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC2DC;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC864;
+Reference = C3;
+ValeurCmp = 220u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC819;
+Reference = C4;
+ValeurCmp = 220u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC4D5;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC4DB;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC4EB;
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CCB60;
+Reference = C8;
+ValeurCmp = 47n;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CCCD8;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC277;
+Reference = D1;
+ValeurCmp = 1N4004;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC284;
+Reference = D2;
+ValeurCmp = 1N4005;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CCCC9;
+Reference = J1;
+ValeurCmp = JACK_2P;
+IdModule  = JACK_ALIM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CD242;
+Reference = J2;
+ValeurCmp = JACK_2P;
+IdModule  = JACK_ALIM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC268;
+Reference = Q1;
+ValeurCmp = BS170;
+IdModule  = TO92DGS;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC29B;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC2A8;
+Reference = R2;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC2BD;
+Reference = R3;
+ValeurCmp = 5k1;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC78E;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC2EB;
+Reference = R5;
+ValeurCmp = 15k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC3EE;
+Reference = R6;
+ValeurCmp = 4k7;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC529;
+Reference = R7;
+ValeurCmp = 68k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC4F1;
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC4F7;
+Reference = R9;
+ValeurCmp = 68k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC503;
+Reference = R10;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC4FD;
+Reference = R11;
+ValeurCmp = 68k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC51D;
+Reference = R12;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC523;
+Reference = R13;
+ValeurCmp = 33k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC371;
+Reference = RV1;
+ValeurCmp = 5KL;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CCBB5;
+Reference = RV2;
+ValeurCmp = 250kA;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CD4E9;
+Reference = SW1;
+ValeurCmp = DUAL_SWITCH_INV;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC237;
+Reference = U1;
+ValeurCmp = ECC83;
+IdModule  = VALVE-NOVAL_P;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CC250;
+Reference = U2;
+ValeurCmp = ECC83;
+IdModule  = VALVE-NOVAL_P;
+EndCmp
+
+EndListe
